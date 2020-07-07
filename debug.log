@@ -10,3 +10,17 @@
 [0701/173209.058:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eortega\AppData\Local\Temp\karma-79329420\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
 [0701/173209.058:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eortega\AppData\Local\Temp\karma-79329420\Crashpad\reports\1eb9679d-b1cb-44c0-bd56-945873d2bace.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
 [0701/173209.058:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0702/141308.624:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0702/141308.639:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0702/141309.190:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0706/110022.327:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0706/110022.609:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0706/110022.861:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0706/135329.364:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eortega\AppData\Local\Temp\karma-62741849\Crashpad\reports\4c148158-dc5b-44e0-b86f-c57dcbc4836c.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0706/135329.390:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0706/135329.585:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eortega\AppData\Local\Temp\karma-62741849\Crashpad\reports\2d7a3b7e-1deb-4bf9-9259-11ced41ce042.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0706/135329.585:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0706/135329.717:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eortega\AppData\Local\Temp\karma-62741849\Crashpad\reports\e0fbf04b-8546-4545-b86b-f50e5eabfc58.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0706/135329.717:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0706/135329.974:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eortega\AppData\Local\Temp\karma-62741849\Crashpad\reports\1a44539c-021e-4dfc-b0ee-6fa44e7f1537.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0706/135329.975:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed

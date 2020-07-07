@@ -3,7 +3,8 @@ import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 import { VoteComponent } from './vote.component';
 
 describe('VoteComponent', () => {
-  let component= new VoteComponent();
+  // Arrange
+  let component: VoteComponent;
   let fixture: ComponentFixture<VoteComponent>;
 
   beforeEach(async(() => {
@@ -19,12 +20,16 @@ describe('VoteComponent', () => {
     fixture.detectChanges();
   });
 
+  beforeEach(() => {
+    component = new VoteComponent();
+  });
+
   it('should create', () => {
     expect(component).toBeTruthy();
   });
 
   it('should increment totalVotes when upvoted', ()=> {
-    // Arrange
+
     // Act
     component.upVote();
     // Assert
@@ -32,7 +37,6 @@ describe('VoteComponent', () => {
   });
 
   it('should decrement totalVotes when downvotes', ()=> {
-    // Arrange
     // Act
     component.downVote();
     // Assert
